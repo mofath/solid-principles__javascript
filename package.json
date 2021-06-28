@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/mofath/solid-principles__javascript/issues"
   },
-  "homepage": "https://github.com/mofath/solid-principles__javascript#readme"
+  "homepage": "https://github.com/mofath/solid-principles__javascript#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
 }
